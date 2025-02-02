@@ -1,2 +1,3 @@
 # Bloodborne
-All the fixes for shadps4 emu version
+Fixes for shadps4 emu version
+ 
