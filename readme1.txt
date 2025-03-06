@@ -2,4 +2,4 @@ It has been observed that most frequent vertex explosions in Bloodborne, when pl
 
 Without Facegen, face shape customization will no longer function, meaning player characters will always have the default face shape for their body type. However, customization options for hair, hair color, eyes, and eye color remain unaffected. NPC faces appear to be largely unchanged by this mod.
 
-Multiple users have reported that this mod significantly reduces face explosions for both players and NPCs. In my own experience, after 1.5 hours of gameplay, I have yet to encounter a vertex explosion. However, rare occurrences may still happen, as not all explosions are linked to Facegen. Currently, there is no known fix for these other instances, as their root cause remains unclear.
+ In my own experience, after 1.5 hours of gameplay, I have yet to encounter a vertex explosion. However, rare occurrences may still happen, as not all explosions are linked to Facegen. Currently, there is no known fix for these other instances, as their root cause remains unclear.
